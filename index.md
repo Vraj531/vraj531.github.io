@@ -1,37 +1,74 @@
-## Welcome to GitHub Pages
+# Vraj Patel
+<img src="img/pic.jpg" alt="pic" class="inline"/><br>
 
-You can use the [editor on GitHub](https://github.com/Vraj531/vraj531.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+# Biography
+Currently pursuing Computer Engineer(B.Tech) from Nirma University, Ahmedabad, India. Worked across diverse domains like Medical Imaging, Satellite Imagery, Generative and Adversial Networks, Computer Vision, Image Processing, in the field of Artificial Intelligence, Machine Learning, and Deep Learning since April,2018.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Education
+- Bachelor's - Nirma University, Ahmedabad 
+- High School - Shree Narayan Vidhyalaya,Vadodara
+- Primary and Secondary School - Ambe Vidhyalaya,Vadodara
 
-### Markdown
+# Skills
+- Programming Languages: C, C++, PHP, JAVA, MySQL(XAMPP)
+- Frameworks: Tensorflow, Keras, Scikit-learn 
+- Tools: Anaconda, MatLab, Jupyter Notebook, Eclipse, Xampp, Spyder
+- System: Windows(98/vista/7/8/8.1/10), Linux, Ubuntu
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Research
+Currently, I am involved in a research project of Medical Image Segmentation and NLP with the help of Deep Learning.
 
-```markdown
-Syntax highlighted code block
+#### 3D Brain Tumor Segmentation of MR Images 
+- Segmentation of brain tumor from MRI considering 3D volume.
+- The dataset used in the project is BraTS(2018-19) which contains 3D images of glioma brain tumor.
 
-# Header 1
-## Header 2
-### Header 3
+#### Denoising Autoencoder using GAN
+- Denoising of noisy MNIST dataset and 2-D Brain image dataset containing different types and variations of noises.
+- Model used was Stacked Sparse Denoising Autoencoder.
+- GAN was used for further improve the quality of images.
 
-- Bulleted
-- List
+#### Object Identification
+- Implemented YOLO v2/v3 on detecting a custom objects.
+- Also worked on Retinanet (RESNET50) on the same.
+- Currently trying the same on Satellite images.
 
-1. Numbered
-2. List
+#### Type-2 Diabetes
+- Worked on triopathy of diabetes i.e. Nephropathy, Neuropathy and Retinopathy.  
+- This project was in collaboration with Diacare Diabetes center. The data contained real city patients with 373+ attributes of all complications of Diabetes. 
+- The model will work like an assistant to the doctor which would help in diagnosis of Nephropathy mainly.
 
-**Bold** and _Italic_ and `Code` text
+# Other Projects
 
-[Link](url) and ![Image](src)
-```
+#### Basic Personal Assistant without AI
+- A system which assist a person according to his/her schedule.
+- Worked with HTML and MySQL database.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+#### Qr code and Fund Transfer
+- Worked with java and created a code for generating QR Code and reading a QR code
+- Also Xampp database which was connected with java and perform transection operation on database. 
 
-### Jekyll Themes
+# Certifications and Courses
+- Image Processing and Pattern Recognition, NPTEL
+- Python, IIT Bombay
+- Deep Learning Specialization, Prof. Andrew Ng.
+- Machine Learning by Stanford University, Prof. Andrew Ng.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Vraj531/vraj531.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+# Hobbies & Interests
+- Listening Songs.
+- Plauing Sports.
+- Watching TV series.
+- Surfing the internet.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+<p align="center">
+  <a href="https://twitter.com/PrayushiM">
+    <img src="https://image.freepik.com/free-icon/twitter-logo_318-40209.jpg" width="40px" height="40px">
+  </a>
+  <a href="https://www.linkedin.com/in/prayushi-mathur-59a470189/">
+    <img src="https://cdn3.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_black-512.png" width="43px" height="43px">
+  </a>
+  <a href="https://github.com/Prayushi9">
+    <img src="https://ultimatepail.com/wp-content/uploads/2015/06/GitHub-Logo.png" width="40px" height="40px">
+  </a>
+</p>
