@@ -31,6 +31,13 @@ Currently, I am involved in a research project of Medical Image Segmentation and
 - Implemented YOLO v2/v3 on detecting a custom objects.
 - Also worked on Retinanet (RESNET50) on the same.
 - Currently trying the same on Satellite images.
+#### Multi-organ Segmentation
+- Performed multi-organ segmentation on 8 organs of the human body.
+- The organs included the pancreas, three organs fronm gastrointestinal tract (esophagus, stomach and duodenum), liver, gallbladder, spleen and left kidney.
+
+<img src="input.gif" alt="pic" class="inline"/><br>
+<img src="output.gif" alt="gif" class="inline"/><br>
+
 
 #### Type-2 Diabetes
 - Worked on triopathy of diabetes i.e. Nephropathy, Neuropathy and Retinopathy.  
