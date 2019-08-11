@@ -1,5 +1,5 @@
 # Vraj Patel
-<img src="pic1.jpg" alt="pic" class="inline"/><br>
+<img src="pic2.jpg" alt="pic" class="inline"/><br>
 
 # Biography
 Currently pursuing Computer Engineer(B.Tech) from Nirma University, Ahmedabad, India. Worked across diverse domains like Medical Imaging, Satellite Imagery, Generative and Adversial Networks, Computer Vision, Image Processing, in the field of Artificial Intelligence, Machine Learning, and Deep Learning since April,2018.
